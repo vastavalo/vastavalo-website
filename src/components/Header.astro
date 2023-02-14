@@ -1,0 +1,71 @@
+---
+interface Props {
+  lang: "fi" | "en";
+}
+
+const { lang } = Astro.props;
+const path = new URL(Astro.request.url).pathname; // TODO: need to trim anchors and query params
+
+const linksMap = {
+  fi: {
+    logo: { label: "Kameraseura", url: "" },
+    langSwitch: { label: "In English", url: "en/" },
+    pages: [
+      { label: "Jäsenyys", url: "" },
+      { label: "Pimiö", url: "pimio/" },
+      { label: "Ihmiset", url: "ihmiset/" },
+    ],
+  },
+
+  en: {
+    logo: { label: "Camera Club", url: "en/" },
+    langSwitch: { label: "Suomeksi", url: "" },
+    pages: [
+      { label: "Membership", url: "en/" },
+      { label: "Darkroom", url: "en/darkroom/" },
+      { label: "People", url: "en/people/" },
+    ],
+  },
+};
+
+const links = linksMap[lang];
+
+const href = (url: string) => import.meta.env.BASE_URL + url;
+---
+
+<header class="border-b border-neutral-200">
+  <div
+    id="logo-area"
+    class="flex flex-wrap items-baseline bg-neutral-900 px-8 py-6"
+  >
+    <a href={href(links.logo.url)}>
+      <div class="text-xl text-neutral-100">{links.logo.label}</div>
+      <div class="text-5xl font-bold text-neutral-100">Vastavalo</div>
+    </a>
+    <a
+      href={href(links.langSwitch.url)}
+      class="ml-auto text-sm text-neutral-100 sm:text-base"
+      >{links.langSwitch.label}</a
+    >
+  </div>
+  <nav
+    class="flex items-center justify-between py-6 px-8 sm:justify-start sm:gap-8"
+  >
+    {
+      links.pages.map((page) => (
+        <a
+          href={href(page.url)}
+          class:list={[
+            "whitespace-nowrap text-base text-neutral-900",
+            "hover:underline hover:underline-offset-8 active:underline active:underline-offset-8",
+            {
+              "underline underline-offset-8": path === href(page.url),
+            },
+          ]}
+        >
+          {page.label}
+        </a>
+      ))
+    }
+  </nav>
+</header>

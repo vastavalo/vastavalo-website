@@ -1,0 +1,34 @@
+---
+import Header from "components/Header.astro";
+
+interface Props {
+  title: string;
+  lang: "fi" | "en";
+}
+
+const { title, lang } = Astro.props.frontmatter || Astro.props;
+
+const siteName =
+  lang === "fi" ? "Kameraseura Vastavalo" : "Camera Club Vastavalo";
+---
+
+<!DOCTYPE html>
+<html lang={lang} class="bg-neutral-100">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title} — {siteName}</title>
+  </head>
+  <body class="mx-auto max-w-7xl bg-white shadow">
+    <Header lang={lang} />
+    <main class="p-8">
+      <article class="prose prose-neutral">
+        <slot />
+      </article>
+    </main>
+  </body>
+</html>

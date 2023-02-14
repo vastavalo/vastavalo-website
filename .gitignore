@@ -1,0 +1,19 @@
+# metadata
+.astro/
+
+# build output
+dist/
+.output/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+
+
+# cruft etc.
+.history/
+.DS_Store
+._*
+Thumbs.db
