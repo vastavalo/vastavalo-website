@@ -2,6 +2,7 @@
   "files.associations": {
     "*.css": "tailwindcss"
   },
+  "tailwindCSS.classAttributes": ["class", "class:list"],
   "editor.quickSuggestions": {
     "strings": true
   },
