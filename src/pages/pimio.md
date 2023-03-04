@@ -10,7 +10,26 @@ Vastavalon pimiö sijaitsee [Vanhan Domuksen itäpäässä](https://goo.gl/maps/
 
 ## Hinnasto
 
-[Tähän tulee linkki hinnastoon](#)
+| Kategoria / nimike | à      |
+| ------------------ | ------ |
+| **Maksut**         |        |
+| 1 h                | 1,00 € |
+| **Paperit**        |        |
+| 13x18 (5x7")       | 0,30 € |
+| 18x24 (7x9,5")     | 0,70 € |
+| 24x30 (9,5x12")    | 1,20 € |
+| 30x40 (12x16")     | 2,20 € |
+| 40x50 (16x20")     | 4,20 € |
+| **Kemikaalit**     |        |
+| C-41               | 2,00 € |
+| MV-filmi           | 1,00 € |
+| MV-vedostus        | 2,00 € |
+| **Filmit**         |        |
+| Basic              | 2,50 € |
+| Premium            | 5,00 € |
+| Pantti             | 1,00 € |
+| **Muut**           |        |
+| Negatasku          | 2,50 € |
 
 Kaikki ostokset on merkittävä kassavihkoon.
 

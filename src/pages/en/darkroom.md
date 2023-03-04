@@ -10,7 +10,26 @@ Vastavalo's darkroom is located at [the eastern end of Vanha Domus](https://goo.
 
 ## Price list
 
-[Link to the price list will be here](#)
+| Category / item | à      |
+| --------------- | ------ |
+| **Fees**        |        |
+| 1 h             | 1,00 € |
+| **Papers**      |        |
+| 13x18 (5x7")    | 0,30 € |
+| 18x24 (7x9,5")  | 0,70 € |
+| 24x30 (9,5x12") | 1,20 € |
+| 30x40 (12x16")  | 2,20 € |
+| 40x50 (16x20")  | 4,20 € |
+| **Chemicals**   |        |
+| C-41            | 2,00 € |
+| BW film         | 1,00 € |
+| BW printing     | 2,00 € |
+| **Film**        |        |
+| Basic           | 2,50 € |
+| Premium         | 5,00 € |
+| Deposit         | 1,00 € |
+| **Misc.**       |        |
+| Neg. sleeve     | 2,50 € |
 
 All the purchases must be marked in the account book.
 
@@ -20,7 +39,7 @@ The debts that you have marked in the account book have to be paid to Vastavalo�
 
 [Link to the booking calendar will be here](#)
 
-Contact the darkroom manager in order to edit the booking calendar.
+Contact the darkroom manager in order to gain permission to edit the booking calendar.
 
 ## Darkroom maintainers
 
