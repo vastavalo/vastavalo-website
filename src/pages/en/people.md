@@ -12,9 +12,11 @@ lang: en
 
 Tatu Heikkilä
 
-### Other board members:
+### Vice head of the board:
 
 Wafa Alimam
+
+### Other board members:
 
 Sami Mikkonen
 
@@ -24,11 +26,11 @@ Osmo Someroja
 
 Aleksi Takala
 
-<h2 id="darkroom">Darkroom team</h2>
+<h2 id="darkroom">Darkroom</h2>
 
-2023 darkroom team TBA
+Darkroom manager: Tatu Heikkilä
 
-You can also reach the darkroom team via email: vastavalo.darkroom@gmail.com
+You can also reach the darkroom team via email: <a href="mailto:vastavalo.darkroom@gmail.com">vastavalo.darkroom@gmail.com</a>
 
 <h2 id="events">Photowalks and events</h2>
 

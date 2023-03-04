@@ -12,9 +12,11 @@ lang: fi
 
 Tatu Heikkilä
 
-### Muut hallituksen jäsenet:
+### Varapuheenjohtaja:
 
 Wafa Alimam
+
+### Muut hallituksen jäsenet:
 
 Sami Mikkonen
 
@@ -26,9 +28,9 @@ Aleksi Takala
 
 <h2 id="pimio">Pimiö</h2>
 
-Darkroom manager: Tatu Heikkilä
+Pimiövastaava: Tatu Heikkilä
 
-Saat pimiön ylläpitoon yhteyden myös sähköpostitse: vastavalo.darkroom@gmail.com
+Saat pimiöön yhteyden myös sähköpostitse: <a href="mailto:vastavalo.darkroom@gmail.com">vastavalo.darkroom@gmail.com</a>
 
 <h2 id="tapahtumat">Valokuvakävelyt ja tapahtumat</h2>
 
