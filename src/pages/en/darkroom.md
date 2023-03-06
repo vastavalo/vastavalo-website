@@ -29,7 +29,7 @@ Vastavalo's darkroom is located at [the eastern end of Vanha Domus](https://goo.
 | Premium         | 5,00 € |
 | Deposit         | 1,00 € |
 | **Misc.**       |        |
-| Neg. sleeve     | 2,50 € |
+| Neg. sleeve     | 0,30 € |
 
 All the purchases must be marked in the account book.
 

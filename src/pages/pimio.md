@@ -29,7 +29,7 @@ Vastavalon pimiö sijaitsee [Vanhan Domuksen itäpäässä](https://goo.gl/maps/
 | Premium            | 5,00 € |
 | Pantti             | 1,00 € |
 | **Muut**           |        |
-| Negatasku          | 2,50 € |
+| Negatasku          | 0,30 € |
 
 Kaikki ostokset on merkittävä kassavihkoon.
 
