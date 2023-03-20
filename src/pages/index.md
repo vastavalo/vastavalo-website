@@ -4,7 +4,7 @@ title: Jäsenyys
 lang: fi
 ---
 
-# Vastavalo lyhyesti
+# Vastavalo
 
 ## Seura
 

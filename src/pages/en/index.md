@@ -4,7 +4,7 @@ title: Membership
 lang: en
 ---
 
-# Vastavalo in short
+# Vastavalo
 
 ## The club
 
