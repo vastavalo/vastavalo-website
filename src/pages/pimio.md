@@ -6,7 +6,23 @@ lang: fi
 
 # Pimiö
 
+Vastavalon pimiö on jäsenten käytössä viikon jokaisena päivänä klo 9–21 silloin kun pimiöllä ei ole muita varauksia. Huomaa että tällöin pimiölle saattaa tulla muitakin kerholaisia työskentelemään samaan aikaan.
+
 Vastavalon pimiö sijaitsee [Vanhan Domuksen itäpäässä](https://goo.gl/maps/9P6CgRTCuiCR1NSZA) osoitteessa Väinämöisenkatu 11. Helpoiten perille kuitenkin pääsee Pellervonkadun puolelta.
+
+Pimiövastaavasta, hallituksen jäsenistä ja muista aktiivisesta jäsenistä koostuva [pimiötiimi](/vastavalo-website/ihmiset#pimio) hoitaa pimiötä.
+
+[Pimiön käsikirja](https://docs.google.com/document/d/e/2PACX-1vQiWFe2CT6II3CGfKBBiiJucI0Po9jHbvcQgA7X_Y9vZn221T2ON5dg0sOqYmASMD-aFuYofP_TuNF1/pub) sisältää ohjeet pimiöllä työskentelyyn.
+
+## Pimiön varaaminen
+
+Vastavalon jäsenet voivat varata pimiön omaan yksityiseen käyttöönsä ilman muita käyttäjiä hinnaston mukaisesti. Pimiö varataan [varauskalenterin](#) kautta. Ota yhteys pimiövastaavaan saadaksesi muokkausoikeuden varauskalenteriin.
+
+Tarkista pimiön varauskalenteri aina ennen pimiölle tuloa.
+
+### Ulkopuoliset tahot
+
+Vastavalon pimiötä ovat tervetulleita käyttämään myös ulkopuoliset henkilöt ja muut yhdistykset. Jos haluat varata pimiön käyttöösi, ota yhteyttä pimiövastaavaan lisätietoja varten.
 
 ## Hinnasto
 
@@ -31,20 +47,8 @@ Vastavalon pimiö sijaitsee [Vanhan Domuksen itäpäässä](https://goo.gl/maps/
 | **Muut**           |        |
 | Negatasku          | 0,30 € |
 
+Hinnasto on voimassa vain Vastavalon jäsenille.
+
 Kaikki ostokset on merkittävä kassavihkoon.
 
-Kassavihkoon kirjoittamasi velat maksetaan Vastavalon tilille FI77 4726 5020 0382 32. Viestikenttään tulee kirjoittaa ”Pimiövelka” ja nimesi.
-
-## Varauskalenteri
-
-[Tähän tulee linkki varauskalenteriin](#)
-
-Ota yhteys pimiövastaavaan saadaksesi muokkausoikeuden varauskalenteriin.
-
-## Pimiö
-
-Pimiövastaavasta, hallituksen jäsenistä ja muista aktiivisesta jäsenistä koostuva [pimiötiimi](/vastavalo-website/ihmiset#pimio) hoitaa pimiötä.
-
-## Pimiön käsikirja
-
-[Pimiön käsikirja](https://docs.google.com/document/d/e/2PACX-1vQiWFe2CT6II3CGfKBBiiJucI0Po9jHbvcQgA7X_Y9vZn221T2ON5dg0sOqYmASMD-aFuYofP_TuNF1/pub) sisältää ohjeet pimiöllä työskentelyyn.
+Kassavihkoon kirjoittamasi velat maksetaan Vastavalon tilille FI77 4726 5020 0382 32. Viestikenttään tulee kirjoittaa "Pimiövelka" ja nimesi.
