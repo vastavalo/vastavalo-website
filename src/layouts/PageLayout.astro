@@ -1,4 +1,7 @@
 ---
+import "@fontsource/nunito-sans";
+import "@fontsource/overpass";
+import "styles/global.css";
 import Header from "components/Header.astro";
 
 interface Props {
@@ -12,8 +15,7 @@ const siteName =
   lang === "fi" ? "Kameraseura Vastavalo" : "Camera Club Vastavalo";
 ---
 
-<!DOCTYPE html>
-<html lang={lang} class="bg-neutral-100">
+<html lang={lang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -23,12 +25,10 @@ const siteName =
     <meta name="generator" content={Astro.generator} />
     <title>{title} — {siteName}</title>
   </head>
-  <body class="mx-auto max-w-7xl bg-white shadow">
+  <body>
     <Header lang={lang} />
-    <main class="p-8">
-      <article class="prose prose-neutral">
-        <slot />
-      </article>
+    <main>
+      <slot />
     </main>
   </body>
 </html>

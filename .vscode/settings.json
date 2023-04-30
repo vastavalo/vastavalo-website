@@ -1,11 +1,5 @@
 {
-  "files.associations": {
-    "*.css": "tailwindcss"
-  },
-  "tailwindCSS.classAttributes": ["class", "class:list"],
-  "editor.quickSuggestions": {
-    "strings": true
-  },
+  "prettier.enable": true,
   "prettier.documentSelectors": ["**/*.astro"],
   "[astro][javascript][typescript][css][json][jsonc][markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"

@@ -32,35 +32,18 @@ const links = linksMap[lang];
 const href = (url: string) => "/vastavalo-website" + url;
 ---
 
-<header class="border-b border-neutral-200">
-  <div id="logo-area" class="bg-neutral-900 px-8 py-6">
-    <a href={href(links.logo.url)}>
-      <div class="text-xl text-neutral-100">{links.logo.label}</div>
-      <div class="text-5xl font-bold text-neutral-100">Vastavalo</div>
-    </a>
-  </div>
-  <nav class="flex flex-col items-center gap-8 py-6 px-8 sm:flex-row">
-    {
-      links.pages.map((page) => (
-        <a
-          href={href(page.url)}
-          class="whitespace-nowrap text-base text-neutral-900"
-        >
-          {page.label}
-        </a>
-      ))
-    }
-    <a
-      class="whitespace-nowrap text-base text-neutral-900 sm:ml-auto"
-      href={href(links.lang.url)}
-    >
+<header>
+  <h1 class="brand">{links.logo.label} Vastavalo</h1>
+  <nav>
+    {links.pages.map((page) => <a href={href(page.url)}>{page.label}</a>)}
+    <a href={href(links.lang.url)}>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"
         viewBox="0 0 24 24"
         stroke-width="1.5"
         stroke="currentColor"
-        class="inline-block h-6 w-6"
+        class="icon"
       >
         <path
           stroke-linecap="round"

@@ -1,0 +1,128 @@
+:root {
+  --text-color: black;
+  --bg-color: white;
+  --border-color: silver;
+  --nav-color: black;
+  --link-color: blue;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --text-color: white;
+    --bg-color: black;
+    --border-color: silver;
+    --nav-color: white;
+    --link-color: skyblue;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+html {
+  color: var(--text-color);
+  background-color: var(--bg-color);
+}
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 100%;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 2rem 0 0.5rem;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--link-color);
+}
+
+header {
+  padding: 1rem 2rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.brand {
+  text-align: center;
+  font-family: "Overpass", sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+
+nav a {
+  color: var(--nav-color);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.icon {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+@media screen and (min-width: 640px) {
+  .brand {
+    text-align: left;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  nav {
+    flex-direction: row;
+  }
+
+  nav a:last-of-type {
+    margin-left: auto;
+  }
+}
