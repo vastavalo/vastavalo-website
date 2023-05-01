@@ -85,6 +85,7 @@ table {
   margin-top: 1rem;
   margin-bottom: 2rem;
   border-collapse: collapse;
+  border-spacing: 0;
 }
 
 th,
