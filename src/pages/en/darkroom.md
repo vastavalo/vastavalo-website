@@ -12,7 +12,7 @@ Vastavalo's darkroom is located at [the eastern end of Vanha Domus](https://goo.
 
 [The darkroom team](/vastavalo-website/en/people#darkroom) maintains the darkroom. It consists of darkroom manager, board members and other active club members.
 
-[The darkroom handbook](https://docs.google.com/document/d/e/2PACX-1vQiWFe2CT6II3CGfKBBiiJucI0Po9jHbvcQgA7X_Y9vZn221T2ON5dg0sOqYmASMD-aFuYofP_TuNF1/pub) contains instructions on using the darkroom.
+[The darkroom handbook](#) contains instructions on using the darkroom.
 
 ## Reserving the darkroom
 
@@ -49,6 +49,4 @@ Non-members and other associations are also welcome to use our darkroom. If you 
 
 Price list is valid for Vastavalo members only.
 
-All the purchases must be marked in the account book.
-
-The debts that you have marked in the account book have to be paid to Vastavalo’s bank account FI77 4726 5020 0382 32. Enter "Darkroom debt" and your name to the message field.
+All the purchases must be marked in the account book. Follow the instructions in the account book in order to pay the debts your have marked.

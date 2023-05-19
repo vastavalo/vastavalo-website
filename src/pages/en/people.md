@@ -8,30 +8,20 @@ lang: en
 
 <h2 id="board">The board 2023</h2>
 
-### Head of the board:
+**Head of the board:** Tatu Heikkilä
 
-Tatu Heikkilä
+**Vice head of the board:** Wafa Alimam
 
-### Vice head of the board:
+**Secretary:** Aleksi Takala
 
-Wafa Alimam
+**Treasurer:** Lauri Paulamäki
 
-### Other board members:
+**Portfolio and exhibition coordinator:** Sami Mikkonen
 
-Sami Mikkonen
-
-Lauri Paulamäki
-
-Osmo Someroja
-
-Aleksi Takala
+**Web manager:** Osmo Someroja
 
 <h2 id="darkroom">Darkroom</h2>
 
-Darkroom manager: Tatu Heikkilä
+**Darkroom manager:** Tatu Heikkilä
 
-You can also reach the darkroom team via email: <a href="mailto:vastavalo.darkroom@gmail.com">vastavalo.darkroom@gmail.com</a>
-
-<h2 id="events">Photowalks and events</h2>
-
-2023 event team TBA
+You can also reach the darkroom via email: <a href="mailto:vastavalo.darkroom@gmail.com">vastavalo.darkroom@gmail.com</a>

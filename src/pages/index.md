@@ -12,9 +12,9 @@ Vastavalo järjestää kuvailtoja, valokuvaustapahtumia ja kilpailuja, kuvaus- j
 
 ## Jäsenyys
 
-Jäsenet ovat seurallemme tärkeitä ja jäsenmaksuilla voimme rahoittaa kaikenlaisia kivoja tapahtumia.
+Jäsenet ovat seuramme sielu ja jäsenmaksuilla voimme rahoittaa seuran toimintaa.
 
 Jäseneksi liityt täyttämällä oheisen jäsenlomakkeen:
 
-- [Jäsenlomake](https://forms.gle/gNU2hxxKhqAT8YFKA)
+- [Jäsenlomake](https://docs.google.com/forms/d/e/1FAIpQLSeRcdIPZy29jzSkosNekSZbXaNJZnbpABe7yxTB8GMfiRuvmQ/viewform)
 - [Vastavalon säännöt](https://drive.google.com/file/d/1PEsNq2AYgZFzYTMWwOhVRMbfrpK_gXnc/view?usp=sharing)

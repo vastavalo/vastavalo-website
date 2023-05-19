@@ -8,30 +8,20 @@ lang: fi
 
 <h2 id=hallitus>Hallitus 2023</h2>
 
-### Puheenjohtaja:
+**Puheenjohtaja:** Tatu Heikkilä
 
-Tatu Heikkilä
+**Varapuheenjohtaja:** Wafa Alimam
 
-### Varapuheenjohtaja:
+**Sihteeri:** Aleksi Takala
 
-Wafa Alimam
+**Rahastonhoitaja:** Lauri Paulamäki
 
-### Muut hallituksen jäsenet:
+**Portfolio- ja näyttelykoordinaattori:** Sami Mikkonen
 
-Sami Mikkonen
-
-Lauri Paulamäki
-
-Osmo Someroja
-
-Aleksi Takala
+**Web-vastaava:** Osmo Someroja
 
 <h2 id="pimio">Pimiö</h2>
 
-Pimiövastaava: Tatu Heikkilä
+**Pimiövastaava:** Tatu Heikkilä
 
 Saat pimiöön yhteyden myös sähköpostitse: <a href="mailto:vastavalo.darkroom@gmail.com">vastavalo.darkroom@gmail.com</a>
-
-<h2 id="tapahtumat">Valokuvakävelyt ja tapahtumat</h2>
-
-2023 tapahtumatiimi TBA
