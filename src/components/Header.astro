@@ -33,7 +33,7 @@ const href = (url: string) => "/vastavalo-website" + url;
 ---
 
 <header>
-  <h1 class="brand">{links.logo.label} Vastavalo</h1>
+  <div class="brand">{links.logo.label} Vastavalo</div>
   <nav>
     {links.pages.map((page) => <a href={href(page.url)}>{page.label}</a>)}
     <a href={href(links.lang.url)}>
