@@ -12,7 +12,7 @@ Vastavalo's darkroom is located at [the eastern end of Vanha Domus](https://goo.
 
 [The darkroom team](/vastavalo-website/en/people#darkroom) maintains the darkroom. It consists of darkroom manager, board members and other active club members.
 
-[The darkroom handbook](#) contains instructions on using the darkroom.
+[The darkroom handbook](https://docs.google.com/document/d/e/2PACX-1vQKtkYpKlWznySQ2D-FNYQQc1nR2uKuk-GSNTP4LwgPRN4qvxJLKEgd35rmAkisyGAMMZ0ZqU08xtaP/pub) contains instructions on using the darkroom.
 
 ## Reserving the darkroom
 
