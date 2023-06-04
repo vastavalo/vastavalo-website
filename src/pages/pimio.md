@@ -16,7 +16,7 @@ Pimiövastaavasta, hallituksen jäsenistä ja muista aktiivisesta jäsenistä ko
 
 ## Pimiön varaaminen
 
-Vastavalon jäsenet voivat varata pimiön omaan yksityiseen käyttöönsä ilman muita käyttäjiä hinnaston mukaisesti. Pimiö varataan [varauskalenterin](#) kautta. Ota yhteys pimiövastaavaan saadaksesi muokkausoikeuden varauskalenteriin.
+Vastavalon jäsenet voivat varata pimiön omaan yksityiseen käyttöönsä ilman muita käyttäjiä hinnaston mukaisesti. Pimiö varataan [varauskalenterin](https://calendar.google.com/calendar/embed?src=dmFzdGF2YWxva2FtZXJhc2V1cmFAZ21haWwuY29t&wkst=2) kautta. Ota yhteys pimiövastaavaan saadaksesi muokkausoikeuden varauskalenteriin.
 
 Tarkista pimiön varauskalenteri aina ennen pimiölle tuloa.
 

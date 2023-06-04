@@ -16,7 +16,7 @@ Vastavalo's darkroom is located at [the eastern end of Vanha Domus](https://goo.
 
 ## Reserving the darkroom
 
-Vastavalo members can reserve the darkroom for their own private use according to the price list by using the [booking calendar](#). Contact the darkroom manager in order to gain permission to mark reservations to the booking calendar.
+Vastavalo members can reserve the darkroom for their own private use according to the price list by using the [booking calendar](https://calendar.google.com/calendar/embed?src=dmFzdGF2YWxva2FtZXJhc2V1cmFAZ21haWwuY29t&wkst=2&hl=en_GB). Contact the darkroom manager in order to gain permission to mark reservations to the booking calendar.
 
 Always check the darkroom booking calendar before coming to the darkroom.
 
