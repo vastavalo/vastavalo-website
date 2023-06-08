@@ -35,4 +35,4 @@ Static assets, like images, are in the `public/` directory.
 
 ## ✨ Deployment
 
-The `main` branch will automatically deploy on [GitHub Pages](https://vastavalo.github.io/vastavalo-website/).
+The `main` branch will automatically deploy on GitHub Pages and is available at [kameraseuravastavalo.fi](https://kameraseuravastavalo.fi).

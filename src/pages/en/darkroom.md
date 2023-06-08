@@ -10,7 +10,7 @@ Vastavalo's darkroom can be used by members every day of the week between 9am an
 
 Vastavalo's darkroom is located at [the eastern end of Vanha Domus](https://goo.gl/maps/9P6CgRTCuiCR1NSZA) in Väinämöisenkatu 11. It is much easier to approach from Pellervonkatu, though.
 
-[The darkroom team](/vastavalo-website/en/people#darkroom) maintains the darkroom. It consists of darkroom manager, board members and other active club members.
+[The darkroom team](/en/people#darkroom) maintains the darkroom. It consists of darkroom manager, board members and other active club members.
 
 [The darkroom handbook](https://docs.google.com/document/d/e/2PACX-1vQKtkYpKlWznySQ2D-FNYQQc1nR2uKuk-GSNTP4LwgPRN4qvxJLKEgd35rmAkisyGAMMZ0ZqU08xtaP/pub) contains instructions on using the darkroom.
 

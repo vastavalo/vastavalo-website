@@ -10,7 +10,7 @@ Vastavalon pimiö on jäsenten käytössä viikon jokaisena päivänä klo 9–2
 
 Vastavalon pimiö sijaitsee [Vanhan Domuksen itäpäässä](https://goo.gl/maps/9P6CgRTCuiCR1NSZA) osoitteessa Väinämöisenkatu 11. Helpoiten perille kuitenkin pääsee Pellervonkadun puolelta.
 
-Pimiövastaavasta, hallituksen jäsenistä ja muista aktiivisesta jäsenistä koostuva [pimiötiimi](/vastavalo-website/ihmiset#pimio) hoitaa pimiötä.
+Pimiövastaavasta, hallituksen jäsenistä ja muista aktiivisesta jäsenistä koostuva [pimiötiimi](/ihmiset#pimio) hoitaa pimiötä.
 
 [Pimiön käsikirja](https://docs.google.com/document/d/e/2PACX-1vQKtkYpKlWznySQ2D-FNYQQc1nR2uKuk-GSNTP4LwgPRN4qvxJLKEgd35rmAkisyGAMMZ0ZqU08xtaP/pub) sisältää ohjeet pimiöllä työskentelyyn.
 

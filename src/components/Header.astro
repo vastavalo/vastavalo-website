@@ -7,36 +7,34 @@ const { lang } = Astro.props;
 
 const linksMap = {
   fi: {
-    logo: { label: "Kameraseura", url: "/" },
-    lang: { label: "English", url: "/en/" },
+    logo: { text: "Kameraseura", href: "/" },
+    lang: { text: "English", href: "/en" },
     pages: [
-      { label: "Jäsenyys", url: "/" },
-      { label: "Pimiö", url: "/pimio/" },
-      { label: "Ihmiset", url: "/ihmiset/" },
+      { text: "Jäsenyys", href: "/" },
+      { text: "Pimiö", href: "/pimio" },
+      { text: "Ihmiset", href: "/ihmiset" },
     ],
   },
 
   en: {
-    logo: { label: "Camera Club", url: "/en/" },
-    lang: { label: "Suomi", url: "/" },
+    logo: { text: "Camera Club", href: "/en" },
+    lang: { text: "Suomi", href: "/" },
     pages: [
-      { label: "Membership", url: "/en/" },
-      { label: "Darkroom", url: "/en/darkroom/" },
-      { label: "People", url: "/en/people/" },
+      { text: "Membership", href: "/en" },
+      { text: "Darkroom", href: "/en/darkroom" },
+      { text: "People", href: "/en/people" },
     ],
   },
 };
 
 const links = linksMap[lang];
-
-const href = (url: string) => "/vastavalo-website" + url;
 ---
 
 <header>
-  <div class="brand">{links.logo.label} Vastavalo</div>
+  <div class="brand">{links.logo.text} Vastavalo</div>
   <nav>
-    {links.pages.map((page) => <a href={href(page.url)}>{page.label}</a>)}
-    <a href={href(links.lang.url)}>
+    {links.pages.map((link) => <a href={link.href}>{link.text}</a>)}
+    <a href={links.lang.href}>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"
@@ -51,7 +49,7 @@ const href = (url: string) => "/vastavalo-website" + url;
           d="M10.5 21l5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 016-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 01-3.827-5.802"
         ></path>
       </svg>
-      {links.lang.label}
+      {links.lang.text}
     </a>
   </nav>
 </header>
