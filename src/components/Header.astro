@@ -8,32 +8,40 @@ const { lang } = Astro.props;
 const linksMap = {
   fi: {
     logo: { text: "Kameraseura", href: "/" },
-    lang: { text: "English", href: "/en" },
+    lang: { text: "English", href: "/en/" },
     pages: [
       { text: "Jäsenyys", href: "/" },
-      { text: "Pimiö", href: "/pimio" },
-      { text: "Ihmiset", href: "/ihmiset" },
+      { text: "Pimiö", href: "/pimio/" },
+      { text: "Ihmiset", href: "/ihmiset/" },
     ],
   },
 
   en: {
-    logo: { text: "Camera Club", href: "/en" },
+    logo: { text: "Camera Club", href: "/en/" },
     lang: { text: "Suomi", href: "/" },
     pages: [
-      { text: "Membership", href: "/en" },
-      { text: "Darkroom", href: "/en/darkroom" },
-      { text: "People", href: "/en/people" },
+      { text: "Membership", href: "/en/" },
+      { text: "Darkroom", href: "/en/darkroom/" },
+      { text: "People", href: "/en/people/" },
     ],
   },
 };
 
 const links = linksMap[lang];
+
+const isActive = (href: string) => href === Astro.url.pathname;
 ---
 
 <header>
   <div class="brand">{links.logo.text} Vastavalo</div>
   <nav>
-    {links.pages.map((link) => <a href={link.href}>{link.text}</a>)}
+    {
+      links.pages.map((link) => (
+        <a href={link.href} class:list={[{ active: isActive(link.href) }]}>
+          {link.text}
+        </a>
+      ))
+    }
     <a href={links.lang.href}>
       <svg
         xmlns="http://www.w3.org/2000/svg"

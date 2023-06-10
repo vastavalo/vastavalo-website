@@ -123,6 +123,10 @@ nav a {
   white-space: nowrap;
 }
 
+nav a.active {
+  border-bottom: 2px solid var(--nav-color);
+}
+
 .icon {
   display: inline-block;
   width: 1rem;
