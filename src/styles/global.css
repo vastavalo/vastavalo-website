@@ -117,14 +117,15 @@ nav a {
   display: flex;
   align-items: center;
   gap: 0.25rem;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 1rem 0.25rem;
   color: var(--nav-color);
   text-decoration: none;
   white-space: nowrap;
+  border-bottom: 2px solid transparent;
 }
 
 nav a.active {
-  border-bottom: 2px solid var(--nav-color);
+  border-bottom-color: var(--nav-color);
 }
 
 .icon {
