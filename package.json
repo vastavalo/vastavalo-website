@@ -15,10 +15,10 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "@fontsource/nunito-sans": "4.5.10",
-    "@fontsource/overpass": "4.5.11",
-    "astro": "2.3.2",
+    "@fontsource/nunito-sans": "5.0.3",
+    "@fontsource/overpass": "5.0.3",
+    "astro": "2.6.3",
     "prettier": "2.8.8",
-    "prettier-plugin-astro": "0.8.0"
+    "prettier-plugin-astro": "0.10.0"
   }
 }
