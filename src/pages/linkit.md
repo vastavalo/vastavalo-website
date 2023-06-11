@@ -6,6 +6,12 @@ lang: fi
 
 # Linkit
 
+## Jäsenyys
+
+[Jäsenlomake](https://docs.google.com/forms/d/e/1FAIpQLSeRcdIPZy29jzSkosNekSZbXaNJZnbpABe7yxTB8GMfiRuvmQ/viewform)
+
+[Vastavalon säännöt](https://drive.google.com/file/d/1PEsNq2AYgZFzYTMWwOhVRMbfrpK_gXnc/view?usp=sharing)
+
 ## Tiedotus ja yleinen keskustelu
 
 [Yleinen Telegram-ryhmä](https://t.me/+3mMF0TRP8kk2NzI0)

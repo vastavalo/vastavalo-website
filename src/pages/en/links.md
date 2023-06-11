@@ -6,6 +6,12 @@ lang: en
 
 # Links
 
+## Membership
+
+[Membership form](https://docs.google.com/forms/d/e/1FAIpQLSeRcdIPZy29jzSkosNekSZbXaNJZnbpABe7yxTB8GMfiRuvmQ/viewform)
+
+[Club rules (Finnish only)](https://drive.google.com/file/d/1PEsNq2AYgZFzYTMWwOhVRMbfrpK_gXnc/view?usp=sharing)
+
 ## Announcements and general discussion
 
 [General Telegram group](https://t.me/+3mMF0TRP8kk2NzI0)
