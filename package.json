@@ -17,7 +17,7 @@
   "dependencies": {
     "@fontsource/nunito-sans": "5.0.3",
     "@fontsource/overpass": "5.0.3",
-    "astro": "2.6.3",
+    "astro": "2.7.0",
     "prettier": "2.8.8",
     "prettier-plugin-astro": "0.10.0"
   }
