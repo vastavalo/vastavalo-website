@@ -1,0 +1,8 @@
+---
+import { getLanguageFromUrl, translations } from "lib/i18n";
+
+const lang = getLanguageFromUrl(Astro.url);
+const t = translations[lang];
+---
+
+<div class="brand">{t.vastavalo}</div>

@@ -1,7 +1,6 @@
 ---
 layout: layouts/PageLayout.astro
 title: Ihmiset
-lang: fi
 ---
 
 # Ihmiset

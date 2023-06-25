@@ -1,7 +1,6 @@
 ---
 layout: layouts/PageLayout.astro
 title: People
-lang: en
 ---
 
 # People

@@ -1,7 +1,6 @@
 ---
 layout: layouts/PageLayout.astro
 title: Jäsenyys
-lang: fi
 ---
 
 # Vastavalo

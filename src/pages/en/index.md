@@ -1,7 +1,6 @@
 ---
 layout: layouts/PageLayout.astro
 title: Membership
-lang: en
 ---
 
 # Vastavalo

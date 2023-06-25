@@ -1,7 +1,6 @@
 ---
 layout: layouts/PageLayout.astro
 title: Linkit
-lang: fi
 ---
 
 # Linkit

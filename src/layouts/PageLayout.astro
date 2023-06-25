@@ -2,17 +2,22 @@
 import "@fontsource/nunito-sans";
 import "@fontsource/overpass";
 import "styles/global.css";
-import Header from "components/Header.astro";
 
-interface Props {
+import type { MarkdownLayoutProps } from "astro";
+import Logo from "components/Logo.astro";
+import Navigation from "components/Navigation.astro";
+import { getLanguageFromUrl, translations } from "lib/i18n";
+
+type Props = MarkdownLayoutProps<{
   title: string;
-  lang: "fi" | "en";
-}
+}>;
 
-const { title, lang } = Astro.props.frontmatter || Astro.props;
+const {
+  frontmatter: { title },
+} = Astro.props;
 
-const siteName =
-  lang === "fi" ? "Kameraseura Vastavalo" : "Camera Club Vastavalo";
+const lang = getLanguageFromUrl(Astro.url);
+const t = translations[lang];
 ---
 
 <html lang={lang}>
@@ -23,12 +28,18 @@ const siteName =
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <meta name="generator" content={Astro.generator} />
-    <title>{title} — {siteName}</title>
+    <title>{title} — {t.vastavalo}</title>
   </head>
   <body>
-    <Header lang={lang} />
+    <header>
+      <Logo />
+      <Navigation />
+    </header>
     <main>
-      <slot />
+      <article>
+        <slot />
+      </article>
     </main>
+    <footer></footer>
   </body>
 </html>
