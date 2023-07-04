@@ -20,6 +20,22 @@ const lang = getLanguageFromUrl(Astro.url);
 const t = translations[lang];
 ---
 
+<style>
+  header {
+    padding: 2rem 2rem 1rem;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  main {
+    padding: 2rem;
+  }
+
+  article {
+    max-inline-size: 66ch;
+    margin-inline: auto;
+  }
+</style>
+
 <html lang={lang}>
   <head>
     <meta charset="UTF-8" />
