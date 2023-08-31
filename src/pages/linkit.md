@@ -7,7 +7,7 @@ title: Linkit
 
 ## Jäsenyys
 
-[Jäsenlomake](https://docs.google.com/forms/d/e/1FAIpQLSeRcdIPZy29jzSkosNekSZbXaNJZnbpABe7yxTB8GMfiRuvmQ/viewform)
+[Jäsenlomake](https://docs.google.com/forms/d/e/1FAIpQLSfRqMNa084CBAJKfbmHvthFe1ZUNw-o3oILi8EYjtzpCCxE9g/viewform)
 
 [Vastavalon säännöt](https://drive.google.com/file/d/1PEsNq2AYgZFzYTMWwOhVRMbfrpK_gXnc/view?usp=sharing)
 
