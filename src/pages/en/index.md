@@ -15,5 +15,5 @@ Members are the soul of our club and the membership fees we help us fund the clu
 
 Fill the following form in order to become a member:
 
-- [Membership form](https://docs.google.com/forms/d/e/1FAIpQLSeRcdIPZy29jzSkosNekSZbXaNJZnbpABe7yxTB8GMfiRuvmQ/viewform)
+- [Membership form](https://docs.google.com/forms/d/e/1FAIpQLSfRqMNa084CBAJKfbmHvthFe1ZUNw-o3oILi8EYjtzpCCxE9g/viewform)
 - [Club rules (Finnish only)](https://drive.google.com/file/d/1PEsNq2AYgZFzYTMWwOhVRMbfrpK_gXnc/view?usp=sharing)
