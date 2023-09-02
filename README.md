@@ -25,13 +25,13 @@ Static assets, like images, are in the `public/` directory.
 
 ## 🧞 Commands
 
-| Command           | Action                                     |
-| :---------------- | :----------------------------------------- |
-| `npm install`     | Install dependencies                       |
-| `npm run dev`     | Start local dev server at `localhost:3000` |
-| `npm run build`   | Build production site to `./dist/`         |
-| `npm run preview` | Preview production site locally            |
-| `npm run format`  | Format code with Prettier                  |
+| Command           | Action                             |
+| :---------------- | :--------------------------------- |
+| `npm install`     | Install dependencies               |
+| `npm run dev`     | Start local dev server             |
+| `npm run build`   | Build production site to `./dist/` |
+| `npm run preview` | Preview production site locally    |
+| `npm run format`  | Format code with Prettier          |
 
 ## ✨ Deployment
 
