@@ -1,4 +1,5 @@
 ---
+import { imageConfig } from "astro:assets";
 import {
   translations,
   type Language,
@@ -42,64 +43,30 @@ const langSwitcher = {
 const isActive = (href: string) => href === Astro.url.pathname;
 ---
 
-<style>
-  nav {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1rem;
-    padding: 1rem;
-  }
-
-  nav a {
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
-    padding: 0.5rem 1rem 0.25rem;
-    color: var(--nav-color);
-    text-decoration: none;
-    white-space: nowrap;
-    border-bottom: 2px solid transparent;
-  }
-
-  nav a.active {
-    border-bottom-color: var(--nav-color);
-  }
-
-  .icon {
-    display: inline-block;
-    width: 1rem;
-    height: 1rem;
-  }
-
-  @media screen and (min-width: 720px) {
-    nav {
-      flex-direction: row;
-      gap: 2rem;
-    }
-
-    nav a:last-of-type {
-      margin-left: auto;
-    }
-  }
-</style>
-
-<nav>
+<nav
+  class="container mx-auto flex flex-row flex-wrap items-center gap-2 whitespace-nowrap p-4 text-black dark:text-white"
+>
   {
     createPageLinks(lang).map((link) => (
-      <a href={link.href} class:list={[{ active: isActive(link.href) }]}>
+      <a
+        href={link.href}
+        class:list={[
+          "rounded px-4 py-2",
+          { "bg-teal-100 dark:bg-teal-900": isActive(link.href) },
+        ]}
+      >
         {link.text}
       </a>
     ))
   }
-  <a href={langSwitcher[lang].href}>
+  <a href={langSwitcher[lang].href} class="sm:ml-auto">
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
       viewBox="0 0 24 24"
       stroke-width="1.5"
       stroke="currentColor"
-      class="icon"
+      class="inline-block h-4 w-4"
     >
       <path
         stroke-linecap="round"

@@ -1,4 +1,0 @@
-{
-  "pluginSearchDirs": false,
-  "plugins": ["prettier-plugin-astro"]
-}

@@ -5,22 +5,8 @@ const lang = getLanguageFromUrl(Astro.url);
 const t = translations[lang];
 ---
 
-<style>
-  .logo-container {
-    container-type: inline-size;
-  }
-
-  .logo {
-    text-align: center;
-    font-family: "Overpass", sans-serif;
-    font-weight: 700;
-    font-size: max(6cqi, 2rem);
-    text-transform: uppercase;
-  }
-</style>
-
-<div class="logo-container">
-  <div class="logo">
-    {t.vastavalo}
-  </div>
+<div
+  class="bg-black p-6 text-center font-title text-4xl font-bold uppercase text-white lg:p-8 lg:text-6xl"
+>
+  {t.vastavalo}
 </div>

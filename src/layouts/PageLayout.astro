@@ -1,12 +1,11 @@
 ---
 import "@fontsource/nunito-sans";
 import "@fontsource/overpass";
-import "styles/global.css";
 
 import type { MarkdownLayoutProps } from "astro";
 import Logo from "components/Logo.astro";
 import Navigation from "components/Navigation.astro";
-import { getLanguageFromUrl, translations } from "lib/i18n";
+import RootLayout from "layouts/RootLayout.astro";
 
 type Props = MarkdownLayoutProps<{
   title: string;
@@ -15,47 +14,17 @@ type Props = MarkdownLayoutProps<{
 const {
   frontmatter: { title },
 } = Astro.props;
-
-const lang = getLanguageFromUrl(Astro.url);
-const t = translations[lang];
 ---
 
-<style>
-  header {
-    padding: 2rem 2rem 1rem;
-    border-bottom: 1px solid var(--border-color);
-  }
-
-  main {
-    padding: 2rem;
-  }
-
-  article {
-    max-inline-size: 66ch;
-    margin-inline: auto;
-  }
-</style>
-
-<html lang={lang}>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-    <meta name="generator" content={Astro.generator} />
-    <title>{title} — {t.vastavalo}</title>
-  </head>
-  <body>
-    <header>
-      <Logo />
-      <Navigation />
-    </header>
-    <main>
-      <article>
-        <slot />
-      </article>
-    </main>
-    <footer></footer>
-  </body>
-</html>
+<RootLayout title={title}>
+  <header>
+    <Logo />
+    <Navigation />
+  </header>
+  <main class="container mx-auto p-4">
+    <article class="prose prose-neutral dark:prose-invert">
+      <slot />
+    </article>
+  </main>
+  <footer></footer>
+</RootLayout>
