@@ -1,10 +1,9 @@
 ---
-import { imageConfig } from "astro:assets";
 import {
-  translations,
-  type Language,
   getLanguageFromUrl,
   languageNames,
+  translations,
+  type Language,
 } from "lib/i18n";
 
 const lang = getLanguageFromUrl(Astro.url);
@@ -13,12 +12,14 @@ const pages = {
   fi: {
     membership: "/",
     darkroom: "/pimio/",
+    qvky: "/qvky",
     people: "/ihmiset/",
     links: "/linkit/",
   },
   en: {
     membership: "/en/",
     darkroom: "/en/darkroom/",
+    qvky: "/en/qvky/",
     people: "/en/people/",
     links: "/en/links/",
   },
@@ -30,6 +31,7 @@ function createPageLinks(lang: Language) {
   return [
     { text: t.membership, href: p.membership },
     { text: t.darkroom, href: p.darkroom },
+    { text: "QVKY", href: p.qvky },
     { text: t.people, href: p.people },
     { text: t.links, href: p.links },
   ] as const;
@@ -44,14 +46,14 @@ const isActive = (href: string) => href === Astro.url.pathname;
 ---
 
 <nav
-  class="container mx-auto flex flex-row flex-wrap items-center gap-2 whitespace-nowrap p-4 text-black dark:text-white"
+  class="container mx-auto grid grid-cols-3 gap-2 whitespace-nowrap p-4 text-black dark:text-white md:flex"
 >
   {
     createPageLinks(lang).map((link) => (
       <a
         href={link.href}
         class:list={[
-          "rounded px-4 py-2",
+          "rounded py-2 text-center md:px-4",
           { "bg-teal-100 dark:bg-teal-900": isActive(link.href) },
         ]}
       >
@@ -59,7 +61,7 @@ const isActive = (href: string) => href === Astro.url.pathname;
       </a>
     ))
   }
-  <a href={langSwitcher[lang].href} class="sm:ml-auto">
+  <a href={langSwitcher[lang].href} class="py-2 text-center md:ml-auto">
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
