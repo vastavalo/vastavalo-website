@@ -15,7 +15,7 @@ Pimiövastaavasta, hallituksen jäsenistä ja muista aktiivisesta jäsenistä ko
 
 ## Pimiön varaaminen
 
-Vastavalon jäsenet voivat varata pimiön omaan yksityiseen käyttöönsä ilman muita käyttäjiä hinnaston mukaisesti. Pimiö varataan [varauskalenterin](https://calendar.google.com/calendar/embed?src=dmFzdGF2YWxva2FtZXJhc2V1cmFAZ21haWwuY29t&wkst=2) kautta. Ota yhteys pimiövastaavaan saadaksesi muokkausoikeuden varauskalenteriin.
+Vastavalon jäsenet voivat varata pimiön omaan yksityiseen käyttöönsä ilman muita käyttäjiä hinnaston mukaisesti. Pimiön käyttö ilman varausta omaan käyttöön on ilmaista. Pimiö varataan [varauskalenterin](https://calendar.google.com/calendar/embed?src=dmFzdGF2YWxva2FtZXJhc2V1cmFAZ21haWwuY29t&wkst=2) kautta. Ota yhteys pimiövastaavaan saadaksesi muokkausoikeuden varauskalenteriin.
 
 Tarkista pimiön varauskalenteri aina ennen pimiölle tuloa.
 
@@ -32,8 +32,10 @@ Vastavalon pimiötä ovat tervetulleita käyttämään myös ulkopuoliset henkil
 | **Paperit**        |        |
 | 13x18 (5x7")       | 0,30 € |
 | 18x24 (7x9,5")     | 0,70 € |
+| A4 tulostus        | 0,70 € |
 | 24x30 (9,5x12")    | 1,20 € |
 | 30x40 (12x16")     | 2,20 € |
+| A3+ tulostus       | 2,20 € |
 | 40x50 (16x20")     | 4,20 € |
 | **Kemikaalit**     |        |
 | C-41               | 2,00 € |
@@ -43,6 +45,7 @@ Vastavalon pimiötä ovat tervetulleita käyttämään myös ulkopuoliset henkil
 | Basic              | 2,50 € |
 | Premium            | 5,00 € |
 | Pantti             | 1,00 € |
+| NC 500             | 7,50 € |
 | **Muut**           |        |
 | Negatasku          | 0,30 € |
 

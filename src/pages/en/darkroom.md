@@ -15,7 +15,7 @@ Vastavalo's darkroom is located at [the eastern end of Vanha Domus](https://goo.
 
 ## Reserving the darkroom
 
-Vastavalo members can reserve the darkroom for their own private use according to the price list by using the [booking calendar](https://calendar.google.com/calendar/embed?src=dmFzdGF2YWxva2FtZXJhc2V1cmFAZ21haWwuY29t&wkst=2&hl=en_GB). Contact the darkroom manager in order to gain permission to mark reservations to the booking calendar.
+Vastavalo members can reserve the darkroom for their own private use according to the price list by using the [booking calendar](https://calendar.google.com/calendar/embed?src=dmFzdGF2YWxva2FtZXJhc2V1cmFAZ21haWwuY29t&wkst=2&hl=en_GB). Members can use the darkroom for free if exclusive use is not required. Contact the darkroom manager in order to gain permission to mark reservations to the booking calendar.
 
 Always check the darkroom booking calendar before coming to the darkroom.
 
@@ -32,8 +32,10 @@ Non-members and other associations are also welcome to use our darkroom. If you 
 | **Papers**      |        |
 | 13x18 (5x7")    | 0,30 € |
 | 18x24 (7x9,5")  | 0,70 € |
+| A4 digital      | 0,70 € |
 | 24x30 (9,5x12") | 1,20 € |
 | 30x40 (12x16")  | 2,20 € |
+| A3+ digital     | 2,20 € |
 | 40x50 (16x20")  | 4,20 € |
 | **Chemicals**   |        |
 | C-41            | 2,00 € |
@@ -43,6 +45,7 @@ Non-members and other associations are also welcome to use our darkroom. If you 
 | Basic           | 2,50 € |
 | Premium         | 5,00 € |
 | Deposit         | 1,00 € |
+| NC 500          | 7,50 € |
 | **Misc.**       |        |
 | Neg. sleeve     | 0,30 € |
 
