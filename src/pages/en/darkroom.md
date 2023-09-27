@@ -42,6 +42,7 @@ Non-members and other associations are also welcome to use our darkroom. If you 
 | **Film**        |        |
 | Basic           | 2,50 € |
 | Premium         | 5,00 € |
+| NC500           | 7,50 € |
 | Deposit         | 1,00 € |
 | **Misc.**       |        |
 | Neg. sleeve     | 0,30 € |
