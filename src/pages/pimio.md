@@ -46,7 +46,6 @@ Vastavalon pimiötä ovat tervetulleita käyttämään myös ulkopuoliset henkil
 | Premium            | 5,00 € |
 | NC500              | 7,50 € |
 | Pantti             | 1,00 € |
-| NC 500             | 7,50 € |
 | **Muut**           |        |
 | Negatasku          | 0,30 € |
 
