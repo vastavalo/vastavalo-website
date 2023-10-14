@@ -15,6 +15,8 @@ Ilmoittautuminen on auki! [Ilmoittautumislomake](https://docs.google.com/forms/d
 
 Kilpailu alkaa klo 18.00 ja kestää keskiyöhön. Liveosallistuminen tapahtuu [Games As Art Centerissä](https://gamesasartcenter.com) (Voimakatu 11). Etäosallistujille toimitetaan osallistumisohjeet erikseen.
 
+Palkintojenjako järjestetään Vastavalon pikkujouluissa.
+
 ## Sääntöjä ja muita juttuja
 
 Kilpailu on ilmainen ja avoin kaikille. Vastavalon jäsenyyttä ei tarvita osallistumiseen.

@@ -15,6 +15,8 @@ Sign-ups are open! [Sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSdPwc
 
 The competition starts at 18:00 and lasts until midnight. Live participation takes place at [Games As Art Center](https://gamesasartcenter.com) (Voimakatu 11). Remote participants get separate instructions on how to attend.
 
+Reward ceremony is held at Vastavalo Christmas Party.
+
 ## Rules and other things
 
 The competition is free and open to everyone. You do not have to be a member of Vastavalo in order to participate.
