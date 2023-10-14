@@ -11,7 +11,9 @@ QVKY—also known as moonlight photography night—is a photography competition 
 
 **QVKY 2023 will be held on Friday 27th of October.**
 
-Sign-up form and additional info coming soon!
+Sign-ups are open! [Sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSdPwc8dQb-CV-ZAmlus-Ms9rZR349rjP0gXtb9nfxNqGX9kFw/viewform?usp=sf_link)
+
+The competition starts at 18:00 and lasts until midnight. Live participation takes place at [Games As Art Center](https://gamesasartcenter.com) (Voimakatu 11). Remote participants get separate instructions on how to attend.
 
 ## Rules and other things
 

@@ -11,7 +11,9 @@ QVKY eli kuunvalokuvausyö on Vastavalon järjestämä vuotuinen valokuvauskilpa
 
 **QVKY 2023 kisataan perjantaina 27. lokakuuta.**
 
-Ilmoittautumislomake ja tarkemmat tiedot tulossa piakkoin!
+Ilmoittautuminen on auki! [Ilmoittautumislomake](https://docs.google.com/forms/d/e/1FAIpQLSdPwc8dQb-CV-ZAmlus-Ms9rZR349rjP0gXtb9nfxNqGX9kFw/viewform?usp=sf_link)
+
+Kilpailu alkaa klo 18.00 ja kestää keskiyöhön. Liveosallistuminen tapahtuu [Games As Art Centerissä](https://gamesasartcenter.com) (Voimakatu 11). Etäosallistujille toimitetaan osallistumisohjeet erikseen.
 
 ## Sääntöjä ja muita juttuja
 
