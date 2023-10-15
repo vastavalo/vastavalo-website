@@ -13,7 +13,9 @@ QVKY eli kuunvalokuvausyö on Vastavalon järjestämä vuotuinen valokuvauskilpa
 
 Ilmoittautuminen on auki! [Ilmoittautumislomake](https://docs.google.com/forms/d/e/1FAIpQLSdPwc8dQb-CV-ZAmlus-Ms9rZR349rjP0gXtb9nfxNqGX9kFw/viewform?usp=sf_link)
 
-Kilpailu alkaa klo 18.00 ja kestää keskiyöhön. Liveosallistuminen tapahtuu [Games As Art Centerissä](https://gamesasartcenter.com) (Voimakatu 11). Etäosallistujille toimitetaan osallistumisohjeet erikseen.
+Jos sinulle ei ole joukkuetta, voit ilmoittautua myös yksin. Kasaamme joukkueita vastaavassa tilanteessa olevista ilmoittautuneista. Ja aina voi otta mukaan kaverin!
+
+Kilpailu alkaa klo 18.00 ja kestää keskiyöhön. Liveosallistuminen tapahtuu [Games As Art Centerissä](https://gamesasartcenter.com) (Voimakatu 11) ja kisatoimisto sulkeutuu klo 22.30. Etäosallistujille toimitetaan osallistumisohjeet erikseen.
 
 Palkintojenjako järjestetään Vastavalon pikkujouluissa.
 
@@ -32,7 +34,7 @@ Kilpailussa on kuusi valokuvatehtävää ja ne annetaan seuraavan aikataulun muk
 - 18.00 Kilpailu alkaa, tehtävät 1 & 2
 - 20.00 Tehtävät 3 & 4
 - 22.00 Tehtävät 5 & 6
-- 00:00 Kilpailu päättyy
+- 00.00 Kilpailu päättyy
 
 Joukkueet saavat tehtävien palautusohjeet kilpailussa.
 
